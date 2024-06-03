@@ -46,13 +46,13 @@
 
 // ========================= 4 - MISOL =====================
 
-// function positivizeArray(arr) {
+// function Array(arr) {
 //     return arr.map(function(item) {
 //       return Math.abs(item);
 //     });
 //   }
 //   let numbers = [-1, -5, 6, -3, 2, -8, 10];
-//   numbers = positivizeArray(numbers);
+//   numbers = Array(numbers);
 //   console.log(numbers);
 
 
@@ -60,16 +60,7 @@
 //  ===================== 5 - MISOL =======================
 
 
-// function doubleArrayElements(arr) {
-//     return arr.map(function(item) {
-//       return item * 2;
-//     });
-//   }
-//   let numbers = [1, 2, 3, 4, 5];
-//   numbers = doubleArrayElements(numbers);
-  
-//   console.log(numbers);
-
+// 
 
 
 //  ==================== 6 - MISOL =========================
